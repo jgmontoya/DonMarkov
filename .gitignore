@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# VSCode
+.vscode
+
+# Config file
+config.ini
+
+# Dataset
+data2.json
